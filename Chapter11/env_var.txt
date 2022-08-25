@@ -1,0 +1,5 @@
+#!/bin/zsh
+echo "this is the user info who is $USER"
+echo $UID
+echo HOME $HOME
+echo "the script value is \$15"

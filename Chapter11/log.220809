@@ -1,0 +1,8 @@
+total 32
+drwxr-xr-x  7 ashuai  staff  224  8  9 22:44 .
+drwxr-xr-x  7 ashuai  staff  224  8  9 21:46 ..
+-rwxr--r--@ 1 ashuai  staff   64  8  9 22:44 command_replace.sh
+-rwxr--r--@ 1 ashuai  staff  150  8  9 22:30 custom_var.sh
+-rwxr--r--@ 1 ashuai  staff  110  8  9 22:23 env_var.txt
+-rwxrwxrwx@ 1 ashuai  staff  119  8  9 21:58 first.sh
+-rw-r--r--  1 ashuai  staff    0  8  9 22:44 log.220809
