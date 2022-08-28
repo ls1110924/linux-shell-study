@@ -1,0 +1,7 @@
+ls: notfound/: No such file or directory
+output/:
+total 16
+drwxr-xr-x  4 ashuai  staff  128  8 28 10:35 .
+drwxr-xr-x  4 ashuai  staff  128  8 27 23:04 ..
+-rw-r--r--@ 1 ashuai  staff    3  8 28 10:35 stderr.txt
+-rw-r--r--@ 1 ashuai  staff   41  8 28 10:44 stdout.txt
