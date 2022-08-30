@@ -1,0 +1,2 @@
+INSERT INFO MEMBER(name, age, male) value ('a shuai', '20', 'man');
+INSERT INFO MEMBER(name, age, male) value ('coco', '18', 'women');
