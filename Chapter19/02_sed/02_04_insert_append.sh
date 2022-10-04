@@ -9,7 +9,8 @@ echo
 echo 'insert a new line before first line'
 echo
 sed '2i\
-this a new line which used insert to the front of second line' $input_file
+this a new line which used insert to the front of second line
+' $input_file
 echo
 echo 'append a new line after first line'
 echo
