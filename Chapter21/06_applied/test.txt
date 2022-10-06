@@ -1,0 +1,1 @@
+factorial.sh 20 | format_factorial.sh
