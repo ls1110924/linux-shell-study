@@ -1,0 +1,5 @@
+ashuai man 80 77 34 76
+yyy man 51 97 21 61
+zzz man 18 31 91 71
+xxx woman 12 45 56 61
+qqq woman 51 51 16 72
