@@ -1,0 +1,4 @@
+/Users/ashuai/WorkSpace/Private/private/document
+
+/Users/ashuai/WorkSpace/notexists
+/Users/ashuai/WorkSpace/Private/private/README.md
